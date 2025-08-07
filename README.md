@@ -52,3 +52,7 @@ The Markov chain model works by:
 3. Generating new text by randomly selecting tokens based on the learned probabilities
 
 The higher the order, the more coherent but less varied the output will be. Lower orders will produce more varied but potentially less coherent text. 
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
